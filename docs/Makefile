@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = python3 -msphinx
 SPHINXPROJ    = Red-DiscordBot
 SOURCEDIR     = .
-BUILDDIR      = _build
+BUILDDIR      = _buildd
 
 # Put it first so that "make" without argument is like "make help".
 help:
